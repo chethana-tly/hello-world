@@ -1,2 +1,2 @@
 # hello-world
-Hello Git. Test Repo
+Hello Git. This is the first committed change.
